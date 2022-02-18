@@ -36,6 +36,9 @@ header{
 .input-search::placeholder{
     color: #b7b7b7;
 }
+.input-search:focus-visible{
+    outline: 0;
+}
 
 main{
     height: 87vh;
